@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-05-27 02:23:16 --> 404 Page Not Found: Media_library/images
+ERROR - 2024-05-27 02:23:41 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 02:35:45 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 02:36:37 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 02:36:58 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 02:40:08 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 02:41:46 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 02:47:21 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 02:49:42 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 02:51:26 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 02:53:07 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 02:53:28 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 02:54:01 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 03:55:56 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 04:47:36 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 04:58:27 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 04:58:49 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 04:59:40 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 04:59:44 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 04:59:45 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 04:59:56 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 05:00:25 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 05:23:53 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 05:27:12 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 05:27:33 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 05:27:49 --> 404 Page Not Found: Media_library/albums
+ERROR - 2024-05-27 05:49:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-05-27 05:49:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-05-27 06:04:20 --> 404 Page Not Found: Media_library/images
+ERROR - 2024-05-27 06:12:35 --> 404 Page Not Found: Media_library/images
+ERROR - 2024-05-27 06:14:21 --> 404 Page Not Found: Media_library/images
+ERROR - 2024-05-27 06:41:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-05-27 06:41:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-05-27 08:58:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-05-27 08:58:19 --> 404 Page Not Found: Assets/plugins
